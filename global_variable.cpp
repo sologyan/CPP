@@ -1,3 +1,4 @@
+/*Write a program of global variable in cpp */
 #include<iostream>
 using namespace std;
 int x = 20; //global variable 
